@@ -1,21 +1,33 @@
 # Masuma Begum - Personal portfolio
 
-A responsive portfolio website built using HTML, CSS, and JavaScript.
+A responsive and modern portfolio website built using **HTML**, **CSS**, and **JavaScript** to showcase my projects and skills.
 
 ## Demo
 
+Take a look at how the website looks across different devices:
+
+### Desktop Demo
 ![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+
+### Mobile Demo
 ![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
+## Features
+
+- Fully responsive design for all devices.
+- Clean, minimal, and user-friendly interface.
+- Dynamic project showcase using JavaScript.
+- Optimized for performance and SEO.
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before installing or modifying this project, ensure you have the following installed on your system:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **Git**: [Download Git](https://git-scm.com/downloads "Download Git")
 
-## Installing Portfolio
+## Installation
 
-To install **Portfolio**, follow these steps:
+To get a local copy of the portfolio website, follow the steps below:
 
 Linux and macOS:
 
